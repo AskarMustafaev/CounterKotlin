@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="enter_something">Enter something</string>
+    <string name="minus_1">-</string>
+</resources>
